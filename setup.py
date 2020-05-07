@@ -11,7 +11,7 @@ setuptools.setup(
         description="A Package for Django which adds a MultipleChoiceField for Models.",
         long_description=long_description,
         long_description_content_type="text/markdown",
-        url="https://github.com/",
+        url="https://github.com/oruehenbeck/django-multiplechoicefield",
         packages=setuptools.find_packages(),
         classifiers=[
             "Framework :: Django",

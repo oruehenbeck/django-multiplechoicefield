@@ -1,6 +1,5 @@
 from django.db import models
 
-
 #multi select field that saves choices as bitfield
 class MultipleChoiceField(models.Field):
     description = _("Encode multiple choices as bitmap")
