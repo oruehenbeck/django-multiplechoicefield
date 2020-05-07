@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: django-multiplechoicefield
-Version: 1.0
+Version: 1.0.1
 Summary: A Package for Django which adds a MultipleChoiceField for Models.
 Home-page: https://github.com/oruehenbeck/django-multiplechoicefield
 Author: Olaf Ruehenbeck

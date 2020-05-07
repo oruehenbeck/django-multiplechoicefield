@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
         name="django-multiplechoicefield",
-        version="1.0",
+        version="1.0.1",
         author="Olaf Ruehenbeck",
         author_email="olaf+pip@ruehenbeck.org",
         description="A Package for Django which adds a MultipleChoiceField for Models.",
@@ -20,4 +20,5 @@ setuptools.setup(
             "Operating System :: OS Independent",
         ],
         python_requires='>=3.6',
+        django_requires='>=2.2.6'
         )
